@@ -1,5 +1,14 @@
-### Hi there 👋
+###
+  const ChaiYen = {
+    
+    firstName: Chai Yen,
+    LastName: Hing,
+    zh: 方梓延,
 
+    school: University of Nebraska-Lincoln,
+    education: B.S. in Computer Science,
+
+ }
 <!--
 **ChaiYen/ChaiYen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
