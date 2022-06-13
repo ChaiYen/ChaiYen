@@ -6,7 +6,7 @@
     zh: 方梓延,
 
     school: University of Nebraska-Lincoln,
-    education: B.S. in Computer Science,
+    education: B.S. in Computer Science :computer:,
 
  }
 <!--
